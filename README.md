@@ -10,6 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=132CED&center=true&vCenter=true&width=800&lines=Turning+ideas+into+impactful+solutions.;Data+Science+Honors+and.;AI%2FML+Specialization+at+VIT.;Always+Learning+and+Innovating." alt="Typing SVG" />
 </p>
 
+---
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/zakariya-shaikh-f28/">
