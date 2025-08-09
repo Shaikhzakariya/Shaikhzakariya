@@ -3,13 +3,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:FF00FF&height=200&section=header&text=Zakariya%20Shaikh&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">AI & Full-Stack Developer | State & National Level Winner | Futuristic Builder</h3>
+<h3 align="center">SDE, Android, AI & Full-Stack Developer | State & National Level Winner | Futuristic Builder</h3>
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00E0FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI%2FML+Specialist;Open+Source+Contributor;Competition+Winner;Always+Learning+and+Innovating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00E0FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI%2FML+Specialist;Open+Source+Contributor;Data+Science+Honors+&+AI/ML+Specialization+at+VIT;Always+Learning+and+Innovating" alt="Typing SVG" />
 </p>
 
+---
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/zakariya-shaikh-f28/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Zakariyask28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
 ---
 
 ### 🏆 Achievements
@@ -45,16 +55,14 @@
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:zakariyask28@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000"/></a>
-  <a href="https://linkedin.com/in/zakariya-shaikh-f28"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-  <a href="https://github.com/Shaikhzakariya"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+
+
 
 ---
 ### Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 
 
