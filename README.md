@@ -22,16 +22,21 @@
 
 ### 🛠 Tech Arsenal
 <p align="center">
+  <img src="https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=00E0FF&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=c-sharp&logoColor=239120&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/R-0A0A0A?style=for-the-badge&logo=r&logoColor=276DC3&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010"/>
   <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00E0FF&labelColor=101010"/>
-  <img src="https://img.shields.io/badge/Django-0A0A0A?style=for-the-badge&logo=django&logoColor=00E0FF&labelColor=101010"/>
-  <img src="https://img.shields.io/badge/Streamlit-0A0A0A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B&labelColor=101010"/>
-  <img src="https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=101010"/>
-  <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010"/>
-  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=00FF00&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java&logoColor=FF6F00&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/ReactJS-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/NodeJS-0A0A0A?style=for-the-badge&logo=node.js&logoColor=00FF00&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=101010"/>
   <img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=00E0FF&labelColor=101010"/>
-  <img src="https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=101010"/>
-  <img src="https://img.shields.io/badge/Azure-0A0A0A?style=for-the-badge&logo=microsoftazure&logoColor=0078D4&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=101010"/>
 </p>
+
 
 
 
