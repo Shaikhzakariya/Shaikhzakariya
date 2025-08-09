@@ -22,26 +22,20 @@
 
 ### 🛠 Tech Arsenal
 <p align="center">
-  <img src="https://img.shields.io/badge/C-D3D3D3?style=for-the-badge&logo=c&logoColor=00E0FF"/>
-  <img src="https://img.shields.io/badge/C%23-D3D3D3?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
-  <img src="https://img.shields.io/badge/R-D3D3D3?style=for-the-badge&logo=r&logoColor=276DC3"/>
-  <img src="https://img.shields.io/badge/JavaScript-D3D3D3?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Python-D3D3D3?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/SQL-D3D3D3?style=for-the-badge&logo=postgresql&logoColor=336791"/>
-  <img src="https://img.shields.io/badge/C++-D3D3D3?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-  <img src="https://img.shields.io/badge/Java-D3D3D3?style=for-the-badge&logo=openjdk&logoColor=FF6F00"/>
-  <img src="https://img.shields.io/badge/ReactJS-D3D3D3?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/NodeJS-D3D3D3?style=for-the-badge&logo=node.js&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/Flutter-D3D3D3?style=for-the-badge&logo=flutter&logoColor=02569B"/>
-  <img src="https://img.shields.io/badge/FastAPI-D3D3D3?style=for-the-badge&logo=fastapi&logoColor=00E0FF"/>
-  <img src="https://img.shields.io/badge/PHP-D3D3D3?style=for-the-badge&logo=php&logoColor=777BB4"/>
+  <img src="https://img.shields.io/badge/C-8e9eab?style=for-the-badge&logo=c&logoColor=00E0FF"/>
+  <img src="https://img.shields.io/badge/C%23-8e9eab?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
+  <img src="https://img.shields.io/badge/R-8e9eab?style=for-the-badge&logo=r&logoColor=276DC3"/>
+  <img src="https://img.shields.io/badge/JavaScript-8e9eab?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-8e9eab?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/SQL-8e9eab?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+  <img src="https://img.shields.io/badge/C++-8e9eab?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/Java-8e9eab?style=for-the-badge&logo=openjdk&logoColor=FF6F00"/>
+  <img src="https://img.shields.io/badge/ReactJS-8e9eab?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/NodeJS-8e9eab?style=for-the-badge&logo=node.js&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/Flutter-8e9eab?style=for-the-badge&logo=flutter&logoColor=02569B"/>
+  <img src="https://img.shields.io/badge/FastAPI-8e9eab?style=for-the-badge&logo=fastapi&logoColor=00E0FF"/>
+  <img src="https://img.shields.io/badge/PHP-8e9eab?style=for-the-badge&logo=php&logoColor=777BB4"/>
 </p>
-
-
-
-
-
-
 
 
 ---
