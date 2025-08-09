@@ -22,7 +22,7 @@
 
 ### 🛠 Tech Arsenal
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00E0FF&labelColor=ED93E6"/>
+  <img src="https://img.shields.io/badge/Python-F7BEF3?style=for-the-badge&logo=python&logoColor=00E0FF&labelColor=101010"/>
   <img src="https://img.shields.io/badge/Django-0A0A0A?style=for-the-badge&logo=django&logoColor=00E0FF&labelColor=101010"/>
   <img src="https://img.shields.io/badge/Streamlit-0A0A0A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B&labelColor=101010"/>
   <img src="https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=101010"/>
