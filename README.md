@@ -23,7 +23,7 @@
 ### 🛠 Tech Arsenal
 <p align="center">
   <img src="https://img.shields.io/badge/C-2E2E2E?style=for-the-badge&logo=c&logoColor=00E0FF"/>
-  <img src="https://img.shields.io/badge/C%23-2E2E2E?style=for-the-badge&logo=csharp&logoColor=239120"/>
+  <img src="https://img.shields.io/badge/C%23-2E2E2E?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
   <img src="https://img.shields.io/badge/R-2E2E2E?style=for-the-badge&logo=r&logoColor=276DC3"/>
   <img src="https://img.shields.io/badge/JavaScript-2E2E2E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Python-2E2E2E?style=for-the-badge&logo=python&logoColor=00E0FF"/>
@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/FastAPI-2E2E2E?style=for-the-badge&logo=fastapi&logoColor=00E0FF"/>
   <img src="https://img.shields.io/badge/PHP-2E2E2E?style=for-the-badge&logo=php&logoColor=777BB4"/>
 </p>
+
 
 
 
