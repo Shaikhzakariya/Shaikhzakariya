@@ -7,8 +7,9 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00E0FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI%2FML+Specialist;Open+Source+Contributor;Data+Science+Honors+&+AI/ML+Specialization+at+VIT;Always+Learning+and+Innovating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00E0FF&center=true&vCenter=true&width=800&lines=Turning+ideas+into+impactful+solutions.;Data+Science+Honors+and.;AI%2FML+Specialization+at+VIT.;Always+Learning+and+Innovating." alt="Typing SVG" />
 </p>
+
 
 ---
 ### 🌐 Connect With Me
