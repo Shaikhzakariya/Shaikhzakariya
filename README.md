@@ -21,7 +21,7 @@
 ---
 
 ### 🛠 Tech Arsenal
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00E0FF"/>
   <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00E0FF"/>
   <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
